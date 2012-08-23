@@ -7,4 +7,5 @@ add_lunch_combo pa_grouper-userdebug
 add_lunch_combo pa_epicmtd-userdebug
 add_lunch_combo pa_galaxysmtd-userdebug
 add_lunch_combo pa_vibrantmtd-userdebug
+add_lunch_combo pa_crespo-userdebug
 add_lunch_combo pa_endeavoru-userdebug
