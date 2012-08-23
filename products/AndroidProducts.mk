@@ -19,3 +19,6 @@ endif
 ifeq (pa_epicmtd,$(TARGET_PRODUCT))
     PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_epicmtd.mk
 endif
+ifeq (pa_crespo,$(TARGET_PRODUCT))
+    PRODUCT_MAKEFILES += $(LOCAL_DIR)/pa_crespo.mk
+endif
